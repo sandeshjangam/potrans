@@ -13,7 +13,7 @@
 	"bin": ["bin/potrans"],
 	"require": {
 		"symfony/console": "^3.4 | ^4 | ^5",
-		"gettext/gettext": "^5.6",
+		"gettext/gettext": "^4 | ^5.6",
 		"google/cloud-translate": "^1.12",
 		"symfony/cache": "^5 | ^6.0",
 		"ext-curl": "*",
